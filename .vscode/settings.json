@@ -34,5 +34,7 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+  "liveServer.settings.CustomBrowser": null,
+  "workbench.activityBar.location": "side"
 }

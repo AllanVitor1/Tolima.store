@@ -1,8 +1,9 @@
 {
   "recommendations": [
     "esbenp.prettier-vscode",
-    "PKief.material-icon-theme",
+    "pkief.material-icon-theme",
     "rocketseat.theme-omni",
-    "ritwickdey.LiveServer"
+    "ritwickdey.liveserver",
+    "ms-edgedevtools.vscode-edge-devtools"
   ]
 }
