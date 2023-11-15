@@ -11,6 +11,36 @@ body {
   position: center;
 }
 
+<<<<<<< HEAD
+.container{
+    border:black solid;
+    margin: 10vh auto;
+    padding: 30px;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+}
+
+.container h1{
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+
+.container .caixa-entrada{
+    background-color: transparent;
+    width: 100%;
+    height: 50%;
+    padding: 10px;
+}
+
+input{
+    background: transparent;
+    border-radius: 10px;
+    width: 80%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+=======
 .container {
   border: black solid;
   margin: 10vh auto;
@@ -31,3 +61,4 @@ body {
   height: 50%;
   margin: 30px 0;
 }
+>>>>>>> 82c31a43be3173c0fdd0eedf1febfe05182ab8d9
